@@ -113,11 +113,16 @@ Stack: React 18, TypeScript, Vite, Tailwind CSS v4, XState, TipTap, Tanstack Que
 
 **Description:**
 ```
-Joined via Streamlit acquisition ($800M). Transitioned through three phases: maintaining the standalone Streamlit product → integrating Streamlit into the Snowflake ecosystem (Streamlit-in-Snowflake) → contributing to the main Snowflake web client across multiple areas of the platform.
+Joined via Streamlit acquisition ($800M). Frontend engineer on the Streamlit-in-Snowflake (SiS) team — building the UI that brings Streamlit apps natively into the Snowflake platform.
 
-Worked on both frontend (TypeScript, React) and infrastructure, expanding scope from the original Streamlit codebase to Snowflake's global web application serving enterprise data teams worldwide.
+• Built the foundational SiS frontend from the ground up: editor page, sharing flow and privilege management, homepage app list and sorting, breadcrumbs/navigation, permalinks, and access control
+• Shipped Theming & Dark Mode GA to production
+• Led an XState state machine refactor — replaced ad-hoc React state with a formally defined state machine, including tech spec, telemetry, and provider architecture
+• Built user error classification and telemetry systems to improve observability and reduce false alarms in production
+• Handled production incidents, on-call escalations, and critical bug fixes across multiple Snowflake regions
+
+Stack: TypeScript, React, XState, WebSockets.
 ```
-(~470 chars — kept shorter since we're still awaiting Nahuel's detailed input from his ex-coworker's PR list. Can be expanded later.)
 
 **Skills (5):** TypeScript, React.js, Python, System Design, Full-Stack Development
 
@@ -154,7 +159,6 @@ First remote role for the US market at an Accel-backed ($3.5M) robotics DevOps s
 
 • Synced video playback of robot camera recordings with log files and time-series charts — all playing in real-time together
 • Overhauled app performance as first accomplishment: resolved React re-rendering issues, implemented Redux + Reselect for proper state management. Became the de facto frontend lead by expertise
-• Left when company secured a US Department of Defense contract (couldn't hire foreign workers). Founder recommended me directly to Streamlit's co-founder
 
 Stack: React (class components), Redux, Re-Reselect, Node.js, Webpack, Plottable, Jest, Enzyme.
 ```
@@ -173,9 +177,7 @@ Stack: React (class components), Redux, Re-Reselect, Node.js, Webpack, Plottable
 Almost 5 years at one of the world's largest classifieds platforms (Naspers/Prosus — 10,000+ employees, 317M monthly users, 30+ countries).
 
 • Built ToOLX from scratch — a modular MVC framework that became the company's internal tools platform. Open-sourced on OLX's GitHub org. Modules: Category Tree, SEO Metatags, Translation Tool, Campaign URL Shortening, and more
-• Grew from Argentina local market → international team (React/Redux/Node) → proposed relocation to Naspers Berlin office
-• Developed global projects side by side with product & UX teams using React, Redux, Node.js, Express, Webpack
-• Created imageCompressor — client-side image compression for the eCommerce platform
+• Grew from Argentina local market → international team relocated to Naspers Berlin office
 
 Stack evolved over 5 years: PHP/Symfony → AngularJS/Backbone → React/Redux/Node.js/Express.
 ```
@@ -187,17 +189,7 @@ Stack evolved over 5 years: PHP/Symfony → AngularJS/Backbone → React/Redux/N
 
 ## 8. EXPERIENCE — EDIT NASPERS
 
-**Current description:** "Working on a Global team developing a global dashboard in which you can create push notifications, check insights, define on which users are going to be sent."
-
-**New description:**
-```
-Secondment from OLX to Naspers Berlin global competence center — Customer Lifecycle Management (CLM) team.
-
-Built a global dashboard for push notifications, user insights, and targeting. The CLM system handled behavioral data of 300M monthly users worldwide, executing hundreds of millions of automated, personalized customer interactions across marketing and product channels.
-```
-(~370 chars)
-
-**Skills (5):** JavaScript, React.js, Full-Stack Development, Software Design, UX Design
+Delete this entry
 
 ---
 
