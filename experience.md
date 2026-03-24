@@ -4,7 +4,7 @@
 
 - **Dates:** Apr 2025 - Present (~1 year)
 - **Location:** Remote (company based in Los Angeles)
-- **Company:** AI-native email service provider (ESP) for eCommerce. Replacement for Mailchimp/Klaviyo. Flagship product: "The Email Brain" — AI-powered system that automates email marketing strategy, content, and optimization.
+- **Company:** AI-native email marketing platform for eCommerce. Replacement for Mailchimp/Klaviyo. Flagship product: "The Email Brain" — AI-powered system that automates email marketing strategy, content, and optimization.
 - **Team size:** ~6 people (Founder/CEO, CTO, Head of Growth, Growth Advisor, Senior Platform Engineer, Senior Product Engineer)
 - **How I got here:** After leaving Snowflake, wanted to learn new technologies and build something new. Daniel Nuske (CTO) — a long-time friend and colleague who has intersected multiple times across the career: Livra.com (early days), connected me with Randy at Raven[Ops], briefly worked together at Streamlit, and now Mailberry. Daniel proposed me as founding engineer, responsible for improving UI/UX and performance.
 

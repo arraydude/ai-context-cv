@@ -32,6 +32,8 @@ Founding Engineer at Mailberry | React, TypeScript, Node.js | AI & Frontend/UX
 ```
 (79 chars — leads with current startup role)
 
+**Picked:** Founding Engineer at Mailberry
+
 ---
 
 ## 2. ABOUT SECTION
@@ -43,19 +45,19 @@ Founding Engineer at Mailberry | React, TypeScript, Node.js | AI & Frontend/UX
 ```
 I build products people actually enjoy using. 15+ years shipping web applications — from building a framework adopted across OLX (317M monthly users) to architecting Streamlit's Cloud Platform from scratch (acquired by Snowflake for $800M) to now leading frontend and AI integrations at an early-stage startup.
 
-I'm a fullstack engineer with a sharp frontend eye. My sweet spot is taking complex systems and making them feel simple — whether that's a real-time email editor with 18 custom extensions, a communication layer between Kubernetes and embedded iframes, or a multi-agent AI orchestration dashboard.
+I'm a fullstack engineer with a sharp frontend eye. My sweet spot is taking complex systems and making them feel simple.
 
-Currently at Mailberry as Founding Engineer, building an AI-native email platform for eCommerce. I rebuilt the entire frontend foundation (monorepo architecture, design system, TypeScript strictness) and now ship features across React, Node.js, and AWS while integrating AI from Anthropic, OpenAI, and Google.
+Currently at Mailberry as Founding Engineer, building an AI-native email platform for eCommerce.
 
-What I work with daily: React, TypeScript, Node.js, Tailwind CSS, Vite, Prisma, PostgreSQL, AWS (Lambda, S3, SQS), Vercel AI SDK.
+Beyond product development, I design AI-augmented engineering workflows — building multi-agent systems, custom Claude Code skills and commands, and automated PR review pipelines. I've established AI-assisted development standards for my team.
 
 Previously: Snowflake (3 yrs), Streamlit (early engineer → $800M acquisition), Raven[Ops] (robotics/AI), OLX/Naspers (global classifieds, Berlin).
 
 Born in Spain, based in Argentina, working remotely with teams worldwide. Outside of code, I tune Ford Ranger ECU systems for motorsports and run a premium automotive parts import business.
 
-array.dude@gmail.com | github.com/arraydude
+emiliano@mailberry.ai | array.dude@gmail.com | github.com/arraydude
 
-React · TypeScript · Node.js · Tailwind CSS · AWS · AI/ML · Vite · Prisma · PostgreSQL · System Design · UX · Technical Leadership · Python · Go · Kubernetes
+React · TypeScript · Node.js · Tailwind CSS · AI · Vite · Prisma · PostgreSQL · System Design · UX · Technical Leadership · Python · Go · Kubernetes
 ```
 
 (~1,550 chars — well within 2,600 limit)
@@ -82,7 +84,7 @@ React · TypeScript · Node.js · Tailwind CSS · AWS · AI/ML · Vite · Prisma
 
 **Description (2,000 char max):**
 ```
-Founding engineer at an AI-native email service provider for eCommerce — building the platform that replaces Mailchimp and Klaviyo with AI-powered automation.
+Founding engineer at Mailberry, an AI-native email marketing platform for eCommerce. Building AI-powered automation for email campaigns, flows, and content generation.
 
 Rebuilt the entire frontend foundation on day one:
 • Migrated multi-repo → monorepo architecture
@@ -90,7 +92,7 @@ Rebuilt the entire frontend foundation on day one:
 • Created the Design System from scratch (Tailwind v4 + shadcn + Lucide), consumed across all frontend apps
 • Enforced TypeScript strictness, ESLint flat config, and CI/CD safety checks on PRs
 
-Built a production-ready TipTap-based email template editor — 67 TypeScript files, 18 extensions, 7 React Email node types with real-time preview editing and full email client compatibility.
+Built a production-ready TipTap-based + React-Email email template editor with real-time preview editing and full email client compatibility.
 
 Established AI-assisted development standards for the engineering team — created Claude Code skills, agents, and commands that standardize how we build and review code.
 
